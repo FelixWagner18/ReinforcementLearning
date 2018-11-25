@@ -1,0 +1,2191 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  25 NOV 2018 21:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template.tex
+(./template.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2018/02/20 v3.50 A class for typesetting presentations
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count80
+\c@beamerpauses=\count81
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count82
+\beamer@minimum=\count83
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count84
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count85
+\beamer@subsubsectionmax=\count86
+\beamer@subsectionmax=\count87
+\beamer@sectionmax=\count88
+\beamer@totalheads=\count89
+\beamer@headcounter=\count90
+\beamer@partstartpage=\count91
+\beamer@sectionstartpage=\count92
+\beamer@subsectionstartpage=\count93
+\beamer@animationtempa=\count94
+\beamer@animationtempb=\count95
+\beamer@xpos=\count96
+\beamer@ypos=\count97
+\beamer@ypos@offset=\count98
+\beamer@showpartnumber=\count99
+\beamer@currentsubsection=\count100
+\beamer@coveringdepth=\count101
+\beamer@sectionadjust=\count102
+\beamer@tocsectionnumber=\count103
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count107
+\c@pgf@countb=\count108
+\c@pgf@countc=\count109
+\c@pgf@countd=\count110
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen138
+\pgfmath@count=\count113
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count114
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen139
+\pgf@picmaxx=\dimen140
+\pgf@picminy=\dimen141
+\pgf@picmaxy=\dimen142
+\pgf@pathminx=\dimen143
+\pgf@pathmaxx=\dimen144
+\pgf@pathminy=\dimen145
+\pgf@pathmaxy=\dimen146
+\pgf@xx=\dimen147
+\pgf@xy=\dimen148
+\pgf@yx=\dimen149
+\pgf@yy=\dimen150
+\pgf@zx=\dimen151
+\pgf@zy=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen153
+\pgf@path@lasty=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen155
+\pgf@shorten@start@additional=\dimen156
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count115
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen158
+\pgf@pt@y=\dimen159
+\pgf@pt@temp=\dimen160
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen161
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen162
+\pgf@sys@shading@range@num=\count116
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count117
+\XC@countmixins=\count118
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count119
+\Hy@pagecounter=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4383.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4383.
+Package hyperref Info: Option `implicit' set `false' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count122
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count123
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count124
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+
+(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count127
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count129
+\c@part=\count130
+\c@section=\count131
+\c@subsection=\count132
+\c@subsubsection=\count133
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count134
+\beamer@zoomframecount=\count135
+\beamer@frametextheight=\dimen167
+\c@subsectionslide=\count136
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen168
+\c@framenumber=\count137
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count138
+\beamer@autobreaklastheight=\dimen169
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box44
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
+\beamer@bg@ht=\dimen170
+\beamer@bg@wd=\dimen171
+\beamer@bg@dp=\dimen172
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks30
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen173
+\bmb@dima=\dimen174
+\bmb@dimb=\dimen175
+\bmb@prevheight=\dimen176
+)
+\beamer@blockheadheight=\dimen177
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count139
+\c@table=\count140
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen179
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count141
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count142
+\leftroot@=\count143
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count144
+\DOTSCASE@=\count145
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count146
+\c@MaxMatrixCols=\count147
+\dotsspace@=\muskip11
+\c@parentequation=\count148
+\dspbrk@lvl=\count149
+\tag@help=\toks33
+\row@=\count150
+\column@=\count151
+\maxfields@=\count152
+\andhelp@=\toks34
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count153
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen188
+\beamer@dimb=\dimen189
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(./beamerthemefocus.sty
+Package: beamerthemefocus 2018/07/15 v2.0 Focus Beamer theme
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fira/FiraSans.sty
+Package: FiraSans 2018/01/09 (Bob Tennent and autoinst) Style file for Fira San
+s fonts.
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks43
+\XKV@tempa@toks=\toks44
+)
+\XKV@depth=\count154
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mweights/mweights.sty
+Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight 
+font packages. 
+LaTeX Info: Redefining \bfseries on input line 22.
+LaTeX Info: Redefining \mdseries on input line 30.
+LaTeX Info: Redefining \rmfamily on input line 38.
+LaTeX Info: Redefining \sffamily on input line 66.
+LaTeX Info: Redefining \ttfamily on input line 94.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fira/FiraMono.sty
+Package: FiraMono 2016/02/13 (Bob Tennent and autoinst) Style file for Fira Mon
+o fonts.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+))
+(./beamercolorthemefocus.sty) (./beamerfontthemefocus.sty)
+(./beamerinnerthemefocus.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box53
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen190
+\pgf@nodesepend=\dimen191
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen192
+\pgffor@skip=\dimen193
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count155
+\pgfplotmarksize=\dimen194
+)
+\tikz@lastx=\dimen195
+\tikz@lasty=\dimen196
+\tikz@lastxsaved=\dimen197
+\tikz@lastysaved=\dimen198
+\tikzleveldistance=\dimen199
+\tikzsiblingdistance=\dimen256
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count156
+\tikznumberofchildren=\count157
+\tikznumberofcurrentchild=\count158
+\tikz@fig@count=\count159
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count160
+\pgfmatrixcurrentcolumn=\count161
+\pgf@matrix@numberofcolumns=\count162
+)
+\tikz@expandcount=\count163
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))) (./beamerouterthemefocus.sty
+(/usr/share/texlive/texmf-dist/tex/latex/appendixnumberbeamer/appendixnumberbea
+mer.sty)
+\focus@pbar@height=\skip57
+\focus@pbar@leftoffset=\skip58
+\focus@pbar@rightoffset=\skip59
+)) (/usr/share/texlive/texmf-dist/tex/generic/mathabx/mathabx.sty
+Package: mathabx 2003/07/29 v0.0 Non-standard LaTeX package mathabx
+\symmatha=\mathgroup6
+\symmathb=\mathgroup7
+\symmathx=\mathgroup8
+
+(/usr/share/texlive/texmf-dist/tex/generic/mathabx/mathabx.dcl
+LaTeX Font Info:    Redeclaring math symbol \cdotp on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \times on input line 33.
+LaTeX Font Info:    Redeclaring math symbol \div on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \cdot on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \circ on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \ast on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \pm on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \mp on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \ltimes on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \rtimes on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \diamond on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \bullet on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \star on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \amalg on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \dotplus on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \equiv on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \sim on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \approx on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \simeq on input line 86.
+LaTeX Font Info:    Redeclaring math symbol \asymp on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \nsim on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \ncong on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \risingdotseq on input line 118.
+LaTeX Font Info:    Redeclaring math symbol \fallingdotseq on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \circeq on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \eqcirc on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \triangleq on input line 127.
+LaTeX Font Info:    Redeclaring math symbol \neg on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \ll on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \gg on input line 137.
+LaTeX Font Info:    Redeclaring math symbol \vdash on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \dashv on input line 140.
+LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 145.
+LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \flat on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \natural on input line 159.
+LaTeX Font Info:    Redeclaring math symbol \sharp on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \infty on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \propto on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \dagger on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \ddagger on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \between on input line 170.
+LaTeX Font Info:    Redeclaring math symbol \smile on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \frown on input line 172.
+LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 174.
+LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 175.
+
+LaTeX Font Info:    Redeclaring math symbol \pitchfork on input line 176.
+LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 184.
+LaTeX Font Info:    Redeclaring math symbol \therefore on input line 189.
+LaTeX Font Info:    Redeclaring math symbol \because on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \measuredangle on input line 202.
+LaTeX Font Info:    Redeclaring math symbol \sphericalangle on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \setminus on input line 218.
+LaTeX Font Info:    Redeclaring math symbol \mid on input line 222.
+LaTeX Font Info:    Redeclaring math symbol \forall on input line 279.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 280.
+LaTeX Font Info:    Redeclaring math symbol \partial on input line 281.
+LaTeX Font Info:    Redeclaring math symbol \exists on input line 284.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 285.
+LaTeX Font Info:    Redeclaring math symbol \Finv on input line 286.
+LaTeX Font Info:    Redeclaring math symbol \Game on input line 287.
+LaTeX Font Info:    Redeclaring math symbol \emptyset on input line 288.
+LaTeX Font Info:    Redeclaring math symbol \top on input line 290.
+LaTeX Font Info:    Redeclaring math symbol \bot on input line 291.
+LaTeX Font Info:    Redeclaring math symbol \perp on input line 292.
+LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 296.
+LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 297.
+LaTeX Font Info:    Redeclaring math symbol \in on input line 299.
+LaTeX Font Info:    Redeclaring math symbol \owns on input line 300.
+LaTeX Font Info:    Redeclaring math symbol \cap on input line 312.
+LaTeX Font Info:    Redeclaring math symbol \cup on input line 313.
+LaTeX Font Info:    Redeclaring math symbol \uplus on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \sqcap on input line 315.
+LaTeX Font Info:    Redeclaring math symbol \sqcup on input line 316.
+LaTeX Font Info:    Redeclaring math symbol \wedge on input line 318.
+LaTeX Font Info:    Redeclaring math symbol \vee on input line 320.
+LaTeX Font Info:    Redeclaring math symbol \barwedge on input line 327.
+LaTeX Font Info:    Redeclaring math symbol \veebar on input line 328.
+LaTeX Font Info:    Redeclaring math symbol \doublebarwedge on input line 329.
+LaTeX Font Info:    Redeclaring math symbol \doublecap on input line 331.
+LaTeX Font Info:    Redeclaring math symbol \doublecup on input line 333.
+LaTeX Font Info:    Redeclaring math symbol \subset on input line 344.
+LaTeX Font Info:    Redeclaring math symbol \supset on input line 345.
+LaTeX Font Info:    Redeclaring math symbol \subseteq on input line 348.
+LaTeX Font Info:    Redeclaring math symbol \supseteq on input line 349.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteq on input line 350.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteq on input line 351.
+LaTeX Font Info:    Redeclaring math symbol \subsetneq on input line 352.
+LaTeX Font Info:    Redeclaring math symbol \supsetneq on input line 353.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 354.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneq on input line 355.
+LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 357.
+LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 358.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteqq on input line 359.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteqq on input line 360.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 361.
+LaTeX Font Info:    Redeclaring math symbol \supsetneqq on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneqq on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneqq on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Subset on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Supset on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \sqsubseteq on input line 380.
+LaTeX Font Info:    Redeclaring math symbol \sqsupseteq on input line 381.
+LaTeX Font Info:    Redeclaring math symbol \triangleleft on input line 407.
+LaTeX Font Info:    Redeclaring math symbol \vartriangleleft on input line 408.
+
+LaTeX Font Info:    Redeclaring math symbol \triangleright on input line 409.
+LaTeX Font Info:    Redeclaring math symbol \vartriangleright on input line 410
+.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 411.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 412.
+LaTeX Font Info:    Redeclaring math symbol \trianglelefteq on input line 413.
+LaTeX Font Info:    Redeclaring math symbol \trianglerighteq on input line 414.
+
+LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 415.
+
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 416
+.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 42
+7.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 42
+8.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 4
+29.
+LaTeX Font Info:    Redeclaring math symbol \nless on input line 437.
+LaTeX Font Info:    Redeclaring math symbol \ngtr on input line 438.
+LaTeX Font Info:    Redeclaring math symbol \leq on input line 439.
+LaTeX Font Info:    Redeclaring math symbol \geq on input line 441.
+LaTeX Font Info:    Redeclaring math symbol \nleq on input line 443.
+LaTeX Font Info:    Redeclaring math symbol \ngeq on input line 445.
+LaTeX Font Info:    Redeclaring math symbol \lneq on input line 451.
+LaTeX Font Info:    Redeclaring math symbol \gneq on input line 452.
+LaTeX Font Info:    Redeclaring math symbol \leqq on input line 453.
+LaTeX Font Info:    Redeclaring math symbol \geqq on input line 454.
+LaTeX Font Info:    Redeclaring math symbol \nleqq on input line 455.
+LaTeX Font Info:    Redeclaring math symbol \ngeqq on input line 456.
+LaTeX Font Info:    Redeclaring math symbol \lneqq on input line 457.
+LaTeX Font Info:    Redeclaring math symbol \gneqq on input line 458.
+LaTeX Font Info:    Redeclaring math symbol \lvertneqq on input line 459.
+LaTeX Font Info:    Redeclaring math symbol \gvertneqq on input line 460.
+LaTeX Font Info:    Redeclaring math symbol \eqslantless on input line 461.
+LaTeX Font Info:    Redeclaring math symbol \eqslantgtr on input line 462.
+LaTeX Font Info:    Redeclaring math symbol \lessgtr on input line 465.
+LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 466.
+LaTeX Font Info:    Redeclaring math symbol \lesseqgtr on input line 467.
+LaTeX Font Info:    Redeclaring math symbol \gtreqless on input line 468.
+LaTeX Font Info:    Redeclaring math symbol \lesseqqgtr on input line 469.
+LaTeX Font Info:    Redeclaring math symbol \gtreqqless on input line 470.
+LaTeX Font Info:    Redeclaring math symbol \lesssim on input line 472.
+LaTeX Font Info:    Redeclaring math symbol \gtrsim on input line 473.
+LaTeX Font Info:    Redeclaring math symbol \lnsim on input line 476.
+LaTeX Font Info:    Redeclaring math symbol \gnsim on input line 477.
+LaTeX Font Info:    Redeclaring math symbol \lessapprox on input line 478.
+LaTeX Font Info:    Redeclaring math symbol \gtrapprox on input line 479.
+LaTeX Font Info:    Redeclaring math symbol \lnapprox on input line 482.
+LaTeX Font Info:    Redeclaring math symbol \gnapprox on input line 483.
+LaTeX Font Info:    Redeclaring math symbol \lessdot on input line 485.
+LaTeX Font Info:    Redeclaring math symbol \gtrdot on input line 486.
+LaTeX Font Info:    Redeclaring math symbol \lll on input line 488.
+LaTeX Font Info:    Redeclaring math symbol \ggg on input line 489.
+LaTeX Font Info:    Redeclaring math symbol \prec on input line 498.
+LaTeX Font Info:    Redeclaring math symbol \succ on input line 499.
+LaTeX Font Info:    Redeclaring math symbol \nprec on input line 500.
+LaTeX Font Info:    Redeclaring math symbol \nsucc on input line 501.
+LaTeX Font Info:    Redeclaring math symbol \preccurlyeq on input line 502.
+LaTeX Font Info:    Redeclaring math symbol \succcurlyeq on input line 503.
+LaTeX Font Info:    Redeclaring math symbol \preceq on input line 506.
+LaTeX Font Info:    Redeclaring math symbol \succeq on input line 507.
+LaTeX Font Info:    Redeclaring math symbol \npreceq on input line 508.
+LaTeX Font Info:    Redeclaring math symbol \nsucceq on input line 509.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqprec on input line 512.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqsucc on input line 513.
+LaTeX Font Info:    Redeclaring math symbol \precsim on input line 517.
+LaTeX Font Info:    Redeclaring math symbol \succsim on input line 518.
+LaTeX Font Info:    Redeclaring math symbol \precnsim on input line 521.
+LaTeX Font Info:    Redeclaring math symbol \succnsim on input line 522.
+LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 523.
+LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 524.
+LaTeX Font Info:    Redeclaring math symbol \precnapprox on input line 527.
+LaTeX Font Info:    Redeclaring math symbol \succnapprox on input line 528.
+LaTeX Font Info:    Redeclaring math symbol \leftarrow on input line 540.
+LaTeX Font Info:    Redeclaring math symbol \rightarrow on input line 542.
+LaTeX Font Info:    Redeclaring math symbol \nwarrow on input line 546.
+LaTeX Font Info:    Redeclaring math symbol \nearrow on input line 547.
+LaTeX Font Info:    Redeclaring math symbol \swarrow on input line 548.
+LaTeX Font Info:    Redeclaring math symbol \searrow on input line 549.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrow on input line 550.
+LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 552.
+LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 553.
+LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 554.
+
+LaTeX Font Info:    Redeclaring math symbol \mapstochar on input line 557.
+LaTeX Font Info:    Redeclaring math symbol \leftharpoonup on input line 560.
+LaTeX Font Info:    Redeclaring math symbol \rightharpoonup on input line 561.
+LaTeX Font Info:    Redeclaring math symbol \leftharpoondown on input line 562.
+
+LaTeX Font Info:    Redeclaring math symbol \rightharpoondown on input line 563
+.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 564.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 565.
+
+LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 566.
+LaTeX Font Info:    Redeclaring math symbol \restriction on input line 567.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 568
+.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56
+9.
+LaTeX Font Info:    Redeclaring math symbol \Leftarrow on input line 575.
+LaTeX Font Info:    Redeclaring math symbol \Rightarrow on input line 576.
+LaTeX Font Info:    Redeclaring math symbol \Leftrightarrow on input line 579.
+LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 581.
+LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 582.
+LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 583.
+
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 593.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 594
+.
+LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 595.
+LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 596.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 597.
+
+LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 598.
+
+LaTeX Font Info:    Redeclaring math symbol \rhook on input line 612.
+LaTeX Font Info:    Redeclaring math symbol \lhook on input line 613.
+LaTeX Font Info:    Redeclaring math symbol \diagup on input line 614.
+LaTeX Font Info:    Redeclaring math symbol \diagdown on input line 615.
+LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 617.
+LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 619.
+LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 624.
+LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 626.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 631.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 633.
+
+LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 641.
+
+LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 642
+.
+LaTeX Font Info:    Redeclaring math symbol \rightsquigarrow on input line 645.
+
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
+646.
+LaTeX Font Info:    Redeclaring math symbol \oplus on input line 658.
+LaTeX Font Info:    Redeclaring math symbol \ominus on input line 659.
+LaTeX Font Info:    Redeclaring math symbol \otimes on input line 661.
+LaTeX Font Info:    Redeclaring math symbol \odot on input line 663.
+LaTeX Font Info:    Redeclaring math symbol \oslash on input line 675.
+LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 683.
+LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 684.
+LaTeX Font Info:    Redeclaring math symbol \boxtimes on input line 686.
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 688.
+\mayacnter=\count164
+\mayacnta=\count165
+\mayacntb=\count166
+\mayacntc=\count167
+\mayawidth=\dimen257
+LaTeX Font Info:    Redeclaring math symbol \intop on input line 753.
+LaTeX Font Info:    Redeclaring math symbol \ointop on input line 760.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 842.
+LaTeX Info: Redefining \{ on input line 846.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 848.
+LaTeX Info: Redefining \} on input line 852.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 858.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 859.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 863.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 865.
+LaTeX Font Info:    Redeclaring math delimiter \uparrow on input line 868.
+LaTeX Font Info:    Redeclaring math delimiter \downarrow on input line 869.
+LaTeX Font Info:    Redeclaring math delimiter \updownarrow on input line 870.
+LaTeX Font Info:    Redeclaring math delimiter \Uparrow on input line 871.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 872.
+LaTeX Font Info:    Redeclaring math delimiter \Updownarrow on input line 873.
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 880.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 881.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 882.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 883.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 884.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 885.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 903.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 905.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 907.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 909.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 944.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 946.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen258
+\lightrulewidth=\dimen259
+\cmidrulewidth=\dimen260
+\belowrulesep=\dimen261
+\belowbottomsep=\dimen262
+\aboverulesep=\dimen263
+\abovetopsep=\dimen264
+\cmidrulesep=\dimen265
+\cmidrulekern=\dimen266
+\defaultaddspace=\dimen267
+\@cmidla=\count168
+\@cmidlb=\count169
+\@aboverulesep=\dimen268
+\@belowrulesep=\dimen269
+\@thisruleclass=\count170
+\@lastruleclass=\count171
+\@thisrulewidth=\dimen270
+)
+(/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2017/11/29 v2.01 (include SVG pictures)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2017/09/07 v3.24 KOMA-Script package (loading files)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook-scrlfile.sty
+Package: filehook-scrlfile 2011/01/03 v0.1 filehook patch for scrlfile package
+Package filehook Info: Package 'scrlfile' detected and compensated for on input
+ line 102.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+\c@svg@param@lastpage=\count172
+\c@svg@param@currpage=\count173
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/transparent.sty
+Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
+
+)
+(./template.aux
+
+LaTeX Warning: Label `bell' multiply defined.
+
+)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 64.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Try loading font information for T1+FiraSans-OsF on input l
+ine 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fira/T1FiraSans-OsF.fd
+File: T1FiraSans-OsF.fd 2018/01/09 (autoinst) Font definitions for T1/FiraSans-
+OsF.
+)
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 64.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(21.33955pt, 321.51625pt, 21.33955pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=321.51625pt
+* \textheight=244.6939pt
+* \oddsidemargin=-50.93044pt
+* \evensidemargin=-50.93044pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count174
+\scratchdimen=\dimen271
+\scratchbox=\box58
+\nofMPsegments=\count175
+\nofMParguments=\count176
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count177
+\MPscratchDim=\dimen272
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
+\everyMPtoPDFconversion=\toks48
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box59
+Package hyperref Info: Link coloring OFF on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count180
+)
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
+
+(./template.out) (./template.out)
+\@outlinefile=\write5
+\openout5 = `template.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 64.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 64.
+\symnumbers=\mathgroup9
+\sympureletters=\mathgroup10
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 64.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/FiraSans-OsF/bx/n on input line 64.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/FiraSans-OsF/bx/n on input line 64.
+
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/FiraSans-OsF/m/n on input line 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/FiraSans-OsF/m/n on input line 64.
+
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/FiraSans-OsF/m/it on input line 64.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/FiraSans-OsF/m/it on input line 64
+.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/FiraMono-TOsF/m/n on input line 64.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/FiraMono-TOsF/m/n on input line 64.
+
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/bx/n on input l
+ine 64.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/bx/it on input
+ line 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/FiraSans-OsF/bx/n --> T1/FiraSans-OsF/bx/n on input 
+line 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/FiraSans-OsF/m/n --> T1/FiraSans-OsF/bx/n on input l
+ine 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/FiraSans-OsF/m/it --> T1/FiraSans-OsF/bx/it on input
+ line 64.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/FiraMono-TOsF/m/n --> T1/FiraMono-TOsF/bx/n on input
+ line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dic
+tionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dict
+ionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionar
+y-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictiona
+ry-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
+ry-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+\c@mv@tabular=\count181
+\c@mv@boldtabular=\count182
+ (./template.nav)
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 64.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 64.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 70.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/sc' will be
+(Font)              scaled to size 20.74pt on input line 70.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/sc' will be
+(Font)              scaled to size 20.74pt on input line 70.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 70.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/sc' will be
+(Font)              scaled to size 14.4pt on input line 70.
+<Images/titlepage.pdf, id=29, 225.84375pt x 218.31563pt>
+File: Images/titlepage.pdf Graphic file (type pdf)
+<use Images/titlepage.pdf>
+Package pdftex.def Info: Images/titlepage.pdf  used on input line 70.
+(pdftex.def)             Requested size: 135.50728pt x 130.99037pt.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 70.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 70.
+
+Overfull \vbox (20.20079pt too high) detected at line 70
+ []
+
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' will be
+(Font)              scaled to size 4.0pt on input line 70.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/titlepage.pdf>]
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 100.
+[2
+
+]
+<Images/suttonbarto.png, id=58, 559.08875pt x 385.44pt>
+File: Images/suttonbarto.png Graphic file (type png)
+<use Images/suttonbarto.png>
+Package pdftex.def Info: Images/suttonbarto.png  used on input line 109.
+(pdftex.def)             Requested size: 192.91171pt x 132.99458pt.
+ [3
+
+ <./Images/suttonbarto.png>]
+Package epstopdf Info: Source file: <Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)                    date: 2018-11-17 17:46:32
+(epstopdf)                    size: 7478 bytes
+(epstopdf)             Output file: <Images/tic-tac-toe-hand-drawn-game-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2018-11-17 17:49:13
+(epstopdf)                    size: 4890 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/tic-tac-toe-hand-dr
+awn-game-eps-converted-to.pdf Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/tic-tac-toe-hand-drawn-game-ep
+s-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
+n <1.5> allowed
+<Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf, id=64, 147.55125pt x 
+152.57pt>
+File: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf>
+Package pdftex.def Info: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pd
+f  used on input line 116.
+(pdftex.def)             Requested size: 113.81102pt x 117.68413pt.
+
+Overfull \vbox (5.99998pt too high) detected at line 116
+ []
+
+[4
+
+ <./Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf>]
+<Images/reinforcementbutton.jpg, id=72, 498.86375pt x 667.49374pt>
+File: Images/reinforcementbutton.jpg Graphic file (type jpg)
+<use Images/reinforcementbutton.jpg>
+Package pdftex.def Info: Images/reinforcementbutton.jpg  used on input line 124
+.
+(pdftex.def)             Requested size: 192.91171pt x 258.12152pt.
+
+Overfull \vbox (34.6653pt too high) detected at line 124
+ []
+
+[5
+
+ <./Images/reinforcementbutton.jpg>] [6
+
+]
+<Images/AgentEnvironment.png, id=83, 972.63374pt x 366.36874pt>
+File: Images/AgentEnvironment.png Graphic file (type png)
+<use Images/AgentEnvironment.png>
+Package pdftex.def Info: Images/AgentEnvironment.png  used on input line 167.
+(pdftex.def)             Requested size: 289.36266pt x 108.99464pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 167.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 167.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 167.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 167.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' will be
+(Font)              scaled to size 6.0pt on input line 167.
+ [7
+
+ <./Images/AgentEnvironment.png>]
+<Images/seagul.jpg, id=93, 501.875pt x 668.4975pt>
+File: Images/seagul.jpg Graphic file (type jpg)
+<use Images/seagul.jpg>
+Package pdftex.def Info: Images/seagul.jpg  used on input line 180.
+(pdftex.def)             Requested size: 128.60698pt x 171.30614pt.
+ [8
+
+ <./Images/seagul.jpg>]
+<Images/homer-devil.jpg, id=99, 715.92468pt x 301.125pt>
+File: Images/homer-devil.jpg Graphic file (type jpg)
+<use Images/homer-devil.jpg>
+Package pdftex.def Info: Images/homer-devil.jpg  used on input line 189.
+(pdftex.def)             Requested size: 289.36266pt x 121.71143pt.
+ [9
+
+ <./Images/homer-devil.jpg>]
+<Images/bestvalue.jpg, id=105, 299.1175pt x 301.125pt>
+File: Images/bestvalue.jpg Graphic file (type jpg)
+<use Images/bestvalue.jpg>
+Package pdftex.def Info: Images/bestvalue.jpg  used on input line 204.
+(pdftex.def)             Requested size: 77.16498pt x 77.68413pt.
+
+[10
+
+ <./Images/bestvalue.jpg>]
+<Images/hot-stove.jpg, id=113, 584.1825pt x 378.41376pt>
+File: Images/hot-stove.jpg Graphic file (type jpg)
+<use Images/hot-stove.jpg>
+Package pdftex.def Info: Images/hot-stove.jpg  used on input line 223.
+(pdftex.def)             Requested size: 128.60698pt x 83.30324pt.
+<Images/cash.jpg, id=114, 962.59625pt x 641.39626pt>
+File: Images/cash.jpg Graphic file (type jpg)
+<use Images/cash.jpg>
+Package pdftex.def Info: Images/cash.jpg  used on input line 223.
+(pdftex.def)             Requested size: 128.60698pt x 85.68436pt.
+ [11
+
+ <./Images/hot-stove.jpg> <./Images/cash.jpg>]
+<Images/exploration.jpg, id=121, 501.875pt x 386.44376pt>
+File: Images/exploration.jpg Graphic file (type jpg)
+<use Images/exploration.jpg>
+Package pdftex.def Info: Images/exploration.jpg  used on input line 237.
+(pdftex.def)             Requested size: 128.60452pt x 99.02243pt.
+[12
+
+ <./Images/exploration.jpg>]
+<Images/window.png, id=127, 1027.84pt x 692.5875pt>
+File: Images/window.png Graphic file (type png)
+<use Images/window.png>
+Package pdftex.def Info: Images/window.png  used on input line 247.
+(pdftex.def)             Requested size: 192.91171pt x 129.98665pt.
+ [13
+
+ <./Images/window.png>] [14
+
+]
+<Images/click.jpg, id=141, 108.405pt x 160.9212pt>
+File: Images/click.jpg Graphic file (type jpg)
+<use Images/click.jpg>
+Package pdftex.def Info: Images/click.jpg  used on input line 271.
+(pdftex.def)             Requested size: 128.60698pt x 190.93385pt.
+ [15
+
+ <./Images/click.jpg>]
+<Images/emotions.png, id=147, 602.25pt x 348.30125pt>
+File: Images/emotions.png Graphic file (type png)
+<use Images/emotions.png>
+Package pdftex.def Info: Images/emotions.png  used on input line 294.
+(pdftex.def)             Requested size: 96.45586pt x 55.78247pt.
+ [16
+
+ <./Images/emotions.png>]
+Package epstopdf Info: Source file: <Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)                    date: 2018-11-17 17:46:32
+(epstopdf)                    size: 7478 bytes
+(epstopdf)             Output file: <Images/tic-tac-toe-hand-drawn-game-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2018-11-17 17:49:13
+(epstopdf)                    size: 4890 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/tic-tac-toe-hand-dr
+awn-game-eps-converted-to.pdf Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)             \includegraphics on input line 314.
+Package epstopdf Info: Output file is already uptodate.
+File: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf>
+Package pdftex.def Info: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pd
+f  used on input line 314.
+(pdftex.def)             Requested size: 96.45586pt x 99.73735pt.
+ [17
+
+]
+Package epstopdf Info: Source file: <Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)                    date: 2018-11-17 17:46:32
+(epstopdf)                    size: 7478 bytes
+(epstopdf)             Output file: <Images/tic-tac-toe-hand-drawn-game-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2018-11-17 17:49:13
+(epstopdf)                    size: 4890 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/tic-tac-toe-hand-dr
+awn-game-eps-converted-to.pdf Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)             \includegraphics on input line 329.
+Package epstopdf Info: Output file is already uptodate.
+File: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf>
+Package pdftex.def Info: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pd
+f  used on input line 329.
+(pdftex.def)             Requested size: 96.45586pt x 99.73735pt.
+ [18
+
+]
+<Images/tictactoe2.png, id=165, 706.64pt x 638.385pt>
+File: Images/tictactoe2.png Graphic file (type png)
+<use Images/tictactoe2.png>
+Package pdftex.def Info: Images/tictactoe2.png  used on input line 342.
+(pdftex.def)             Requested size: 191.30269pt x 172.82407pt.
+Package epstopdf Info: Source file: <Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)                    date: 2018-11-17 17:46:32
+(epstopdf)                    size: 7478 bytes
+(epstopdf)             Output file: <Images/tic-tac-toe-hand-drawn-game-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2018-11-17 17:49:13
+(epstopdf)                    size: 4890 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/tic-tac-toe-hand-dr
+awn-game-eps-converted-to.pdf Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)             \includegraphics on input line 342.
+Package epstopdf Info: Output file is already uptodate.
+File: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf>
+Package pdftex.def Info: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pd
+f  used on input line 342.
+(pdftex.def)             Requested size: 96.45586pt x 99.73735pt.
+ [19
+
+ <./Images/tictactoe2.png>]
+Package epstopdf Info: Source file: <Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)                    date: 2018-11-17 17:46:32
+(epstopdf)                    size: 7478 bytes
+(epstopdf)             Output file: <Images/tic-tac-toe-hand-drawn-game-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2018-11-17 17:49:13
+(epstopdf)                    size: 4890 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/tic-tac-toe-hand-dr
+awn-game-eps-converted-to.pdf Images/tic-tac-toe-hand-drawn-game.eps>
+(epstopdf)             \includegraphics on input line 364.
+Package epstopdf Info: Output file is already uptodate.
+File: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pdf>
+Package pdftex.def Info: Images/tic-tac-toe-hand-drawn-game-eps-converted-to.pd
+f  used on input line 364.
+(pdftex.def)             Requested size: 96.45586pt x 99.73735pt.
+ [20
+
+]
+<example-image-a.pdf, id=178, 321.2pt x 240.9pt>
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 370.
+(pdftex.def)             Requested size: 113.81102pt x 85.3565pt.
+
+Overfull \vbox (5.99998pt too high) detected at line 370
+ []
+
+[21
+
+ </usr/share/texlive/texmf-dist/tex/latex/mwe/example-image-a.pdf>]
+<Images/multiarmedbandit.jpg, id=190, 224.33812pt x 185.94469pt>
+File: Images/multiarmedbandit.jpg Graphic file (type jpg)
+<use Images/multiarmedbandit.jpg>
+Package pdftex.def Info: Images/multiarmedbandit.jpg  used on input line 388.
+(pdftex.def)             Requested size: 160.75812pt x 133.25018pt.
+ [22
+
+ <./Images/multiarmedbandit.jpg>]
+Package epstopdf Info: Source file: <Images/figure_2_1.eps>
+(epstopdf)                    date: 2018-11-24 17:07:56
+(epstopdf)                    size: 68655 bytes
+(epstopdf)             Output file: <Images/figure_2_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-24 20:16:30
+(epstopdf)                    size: 25570 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/figure_2_1-eps-conv
+erted-to.pdf Images/figure_2_1.eps>
+(epstopdf)             \includegraphics on input line 397.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/figure_2_1-eps-converted-to.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Images/figure_2_1-eps-converted-to.pdf, id=196, 433.62pt x 289.08pt>
+File: Images/figure_2_1-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/figure_2_1-eps-converted-to.pdf>
+Package pdftex.def Info: Images/figure_2_1-eps-converted-to.pdf  used on input 
+line 397.
+(pdftex.def)             Requested size: 257.21397pt x 171.48203pt.
+[23
+
+ <./Images/figure_2_1-eps-converted-to.pdf>]
+File: Images/exploration.jpg Graphic file (type jpg)
+<use Images/exploration.jpg>
+Package pdftex.def Info: Images/exploration.jpg  used on input line 416.
+(pdftex.def)             Requested size: 96.45586pt x 74.2683pt.
+ [24
+
+]
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 431.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' will be
+(Font)              scaled to size 14.4pt on input line 431.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 431.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 431.
+ [25
+
+] [26
+
+]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/figure_2_2_a-crop.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Images/figure_2_2_a-crop.pdf, id=250, 598.235pt x 578.16pt>
+File: Images/figure_2_2_a-crop.pdf Graphic file (type pdf)
+<use Images/figure_2_2_a-crop.pdf>
+Package pdftex.def Info: Images/figure_2_2_a-crop.pdf  used on input line 455.
+(pdftex.def)             Requested size: 192.91171pt x 186.43532pt.
+
+Overfull \vbox (4.51692pt too high) detected at line 455
+ []
+
+[27
+
+ <./Images/figure_2_2_a-crop.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/figure_2_2_b-crop.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Images/figure_2_2_b-crop.pdf, id=285, 598.235pt x 578.16pt>
+File: Images/figure_2_2_b-crop.pdf Graphic file (type pdf)
+<use Images/figure_2_2_b-crop.pdf>
+Package pdftex.def Info: Images/figure_2_2_b-crop.pdf  used on input line 463.
+(pdftex.def)             Requested size: 192.91171pt x 186.43532pt.
+
+Overfull \vbox (4.51692pt too high) detected at line 463
+ []
+
+[28
+
+ <./Images/figure_2_2_b-crop.pdf>]
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 477.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bx/n' in size <10.95> not avail
+able
+(Font)              Font shape `T1/FiraSans-OsF/b/n' tried instead on input lin
+e 477.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 477.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bx/n' in size <8> not available
+
+(Font)              Font shape `T1/FiraSans-OsF/b/n' tried instead on input lin
+e 477.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 477.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bx/n' in size <6> not available
+
+(Font)              Font shape `T1/FiraSans-OsF/b/n' tried instead on input lin
+e 477.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' will be
+(Font)              scaled to size 6.0pt on input line 477.
+ [29
+
+]
+Package epstopdf Info: Source file: <Images/figure_2_3.eps>
+(epstopdf)                    date: 2018-11-24 17:09:04
+(epstopdf)                    size: 65435 bytes
+(epstopdf)             Output file: <Images/figure_2_3-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-25 00:13:36
+(epstopdf)                    size: 24560 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/figure_2_3-eps-conv
+erted-to.pdf Images/figure_2_3.eps>
+(epstopdf)             \includegraphics on input line 485.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/figure_2_3-eps-converted-to.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Images/figure_2_3-eps-converted-to.pdf, id=327, 433.62pt x 289.08pt>
+File: Images/figure_2_3-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/figure_2_3-eps-converted-to.pdf>
+Package pdftex.def Info: Images/figure_2_3-eps-converted-to.pdf  used on input 
+line 485.
+(pdftex.def)             Requested size: 289.36266pt x 192.91948pt.
+
+Overfull \vbox (11.00108pt too high) detected at line 485
+ []
+
+[30
+
+ <./Images/figure_2_3-eps-converted-to.pdf>] [31
+
+]
+Package epstopdf Info: Source file: <Images/figure_2_4.eps>
+(epstopdf)                    date: 2018-11-24 17:11:03
+(epstopdf)                    size: 66668 bytes
+(epstopdf)             Output file: <Images/figure_2_4-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-25 00:13:36
+(epstopdf)                    size: 26297 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/figure_2_4-eps-conv
+erted-to.pdf Images/figure_2_4.eps>
+(epstopdf)             \includegraphics on input line 509.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/figure_2_4-eps-converted-to.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Images/figure_2_4-eps-converted-to.pdf, id=371, 433.62pt x 289.08pt>
+File: Images/figure_2_4-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/figure_2_4-eps-converted-to.pdf>
+Package pdftex.def Info: Images/figure_2_4-eps-converted-to.pdf  used on input 
+line 509.
+(pdftex.def)             Requested size: 289.36266pt x 192.91948pt.
+[32
+
+ <./Images/figure_2_4-eps-converted-to.pdf>] [33
+
+]
+Package epstopdf Info: Source file: <Images/figure_2_5.eps>
+(epstopdf)                    date: 2018-11-24 17:18:34
+(epstopdf)                    size: 111069 bytes
+(epstopdf)             Output file: <Images/figure_2_5-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-25 00:13:37
+(epstopdf)                    size: 33243 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/figure_2_5-eps-conv
+erted-to.pdf Images/figure_2_5.eps>
+(epstopdf)             \includegraphics on input line 534.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/figure_2_5-eps-converted-to.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Images/figure_2_5-eps-converted-to.pdf, id=418, 433.62pt x 289.08pt>
+File: Images/figure_2_5-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/figure_2_5-eps-converted-to.pdf>
+Package pdftex.def Info: Images/figure_2_5-eps-converted-to.pdf  used on input 
+line 534.
+(pdftex.def)             Requested size: 241.13718pt x 160.75888pt.
+
+Overfull \vbox (6.0405pt too high) detected at line 534
+ []
+
+[34
+
+ <./Images/figure_2_5-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images/figure_2_6.eps>
+(epstopdf)                    date: 2018-11-24 17:46:29
+(epstopdf)                    size: 25317 bytes
+(epstopdf)             Output file: <Images/figure_2_6-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-25 00:13:37
+(epstopdf)                    size: 16963 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/figure_2_6-eps-conv
+erted-to.pdf Images/figure_2_6.eps>
+(epstopdf)             \includegraphics on input line 542.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/figure_2_6-eps-converted-to.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Images/figure_2_6-eps-converted-to.pdf, id=460, 433.62pt x 289.08pt>
+File: Images/figure_2_6-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/figure_2_6-eps-converted-to.pdf>
+Package pdftex.def Info: Images/figure_2_6-eps-converted-to.pdf  used on input 
+line 542.
+(pdftex.def)             Requested size: 273.29077pt x 182.20074pt.
+
+Overfull \vbox (13.88235pt too high) detected at line 542
+ []
+
+[35
+
+ <./Images/figure_2_6-eps-converted-to.pdf>] [36
+
+] [37
+
+]
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 573.
+(pdftex.def)             Requested size: 113.81102pt x 85.3565pt.
+
+Overfull \vbox (5.99998pt too high) detected at line 573
+ []
+
+[38
+
+]
+File: Images/AgentEnvironment.png Graphic file (type png)
+<use Images/AgentEnvironment.png>
+Package pdftex.def Info: Images/AgentEnvironment.png  used on input line 585.
+(pdftex.def)             Requested size: 289.36266pt x 108.99464pt.
+ [39
+
+] [40
+
+]
+<Images/Markov_Decision_Process.pdf, id=539, 602.25pt x 481.8pt>
+File: Images/Markov_Decision_Process.pdf Graphic file (type pdf)
+<use Images/Markov_Decision_Process.pdf>
+Package pdftex.def Info: Images/Markov_Decision_Process.pdf  used on input line
+ 615.
+(pdftex.def)             Requested size: 192.91171pt x 154.32617pt.
+ [41
+
+ <./Images/Markov_Decision_Process.pdf>] [42
+
+]
+<Images/pole.png, id=558, 796.9775pt x 457.71pt>
+File: Images/pole.png Graphic file (type png)
+<use Images/pole.png>
+Package pdftex.def Info: Images/pole.png  used on input line 644.
+(pdftex.def)             Requested size: 160.75812pt x 92.32259pt.
+ [43
+
+ <./Images/pole.png>]
+Overfull \vbox (9.26984pt too high) detected at line 660
+ []
+
+[44
+
+]
+<Images/markov_chain.png, id=570, 565.11125pt x 565.11125pt>
+File: Images/markov_chain.png Graphic file (type png)
+<use Images/markov_chain.png>
+Package pdftex.def Info: Images/markov_chain.png  used on input line 678.
+(pdftex.def)             Requested size: 160.75812pt x 160.75658pt.
+ [45
+
+ <./Images/markov_chain.png>] [46
+
+pdfTeX warning (ext4): destination with the same identifier (name{bell}) has be
+en already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.696 	\end{frame}
+                  ]
+<Images/gridworldrandom.png, id=583, 982.67125pt x 347.2975pt>
+File: Images/gridworldrandom.png Graphic file (type png)
+<use Images/gridworldrandom.png>
+Package pdftex.def Info: Images/gridworldrandom.png  used on input line 707.
+(pdftex.def)             Requested size: 289.36266pt x 102.26639pt.
+ [47
+
+ <./Images/gridworldrandom.png>]
+<Images/figure_3_2.png, id=589, 462.528pt x 346.896pt>
+File: Images/figure_3_2.png Graphic file (type png)
+<use Images/figure_3_2.png>
+Package pdftex.def Info: Images/figure_3_2.png  used on input line 715.
+(pdftex.def)             Requested size: 257.21397pt x 192.92125pt.
+ [48
+
+ <./Images/figure_3_2.png>] [49
+
+]
+Overfull \vbox (0.93842pt too high) detected at line 747
+ []
+
+[50
+
+]
+<Images/gridworldoptimal.png, id=609, 1133.23375pt x 421.575pt>
+File: Images/gridworldoptimal.png Graphic file (type png)
+<use Images/gridworldoptimal.png>
+Package pdftex.def Info: Images/gridworldoptimal.png  used on input line 755.
+(pdftex.def)             Requested size: 321.51625pt x 119.60333pt.
+ [51
+
+ <./Images/gridworldoptimal.png>]
+<Images/figure_3_5.png, id=615, 462.528pt x 346.896pt>
+File: Images/figure_3_5.png Graphic file (type png)
+<use Images/figure_3_5.png>
+Package pdftex.def Info: Images/figure_3_5.png  used on input line 763.
+(pdftex.def)             Requested size: 257.21397pt x 192.92125pt.
+ [52
+
+ <./Images/figure_3_5.png>]
+[53
+
+]
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 783.
+(pdftex.def)             Requested size: 113.81102pt x 85.3565pt.
+
+Overfull \vbox (5.99998pt too high) detected at line 783
+ []
+
+[54
+
+]
+<Images/sketch.png, id=632, 911.405pt x 1015.795pt>
+File: Images/sketch.png Graphic file (type png)
+<use Images/sketch.png>
+Package pdftex.def Info: Images/sketch.png  used on input line 799.
+(pdftex.def)             Requested size: 96.45586pt x 107.49086pt.
+ [55
+
+ <./Images/sketch.png>] [56
+
+]
+Package epstopdf Info: Source file: <Images/learning_curve.eps>
+(epstopdf)                    date: 2018-11-24 20:06:46
+(epstopdf)                    size: 19901 bytes
+(epstopdf)             Output file: <Images/learning_curve-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2018-11-24 20:08:08
+(epstopdf)                    size: 11805 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/learning_curve-eps-
+converted-to.pdf Images/learning_curve.eps>
+(epstopdf)             \includegraphics on input line 820.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/learning_curve-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<Images/learning_curve-eps-converted-to.pdf, id=645, 433.62pt x 289.08pt>
+File: Images/learning_curve-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/learning_curve-eps-converted-to.pdf>
+Package pdftex.def Info: Images/learning_curve-eps-converted-to.pdf  used on in
+put line 820.
+(pdftex.def)             Requested size: 225.06038pt x 150.04015pt.
+[57
+
+ <./Images/learning_curve-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images/direction_values.eps>
+(epstopdf)                    date: 2018-11-24 20:06:46
+(epstopdf)                    size: 404569 bytes
+(epstopdf)             Output file: <Images/direction_values-eps-converted-to.p
+df>
+(epstopdf)                    date: 2018-11-24 20:08:09
+(epstopdf)                    size: 13595 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/direction_values-ep
+s-converted-to.pdf Images/direction_values.eps>
+(epstopdf)             \includegraphics on input line 828.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/direction_values-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<Images/direction_values-eps-converted-to.pdf, id=680, 433.62pt x 289.08pt>
+File: Images/direction_values-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/direction_values-eps-converted-to.pdf>
+Package pdftex.def Info: Images/direction_values-eps-converted-to.pdf  used on 
+input line 828.
+(pdftex.def)             Requested size: 225.06038pt x 150.04015pt.
+[58
+
+ <./Images/direction_values-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images/greedy_directions.eps>
+(epstopdf)                    date: 2018-11-24 20:06:47
+(epstopdf)                    size: 304383 bytes
+(epstopdf)             Output file: <Images/greedy_directions-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2018-11-24 20:08:09
+(epstopdf)                    size: 11828 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/greedy_directions-e
+ps-converted-to.pdf Images/greedy_directions.eps>
+(epstopdf)             \includegraphics on input line 836.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Images/greedy_directions-eps-converte
+d-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> al
+lowed
+<Images/greedy_directions-eps-converted-to.pdf, id=717, 433.62pt x 289.08pt>
+File: Images/greedy_directions-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/greedy_directions-eps-converted-to.pdf>
+Package pdftex.def Info: Images/greedy_directions-eps-converted-to.pdf  used on
+ input line 836.
+(pdftex.def)             Requested size: 225.06038pt x 150.04015pt.
+[59
+
+ <./Images/greedy_directions-eps-converted-to.pdf>]
+<Images/osterreich.jpg, id=751, 17.54587pt x 10.14815pt>
+File: Images/osterreich.jpg Graphic file (type jpg)
+<use Images/osterreich.jpg>
+Package pdftex.def Info: Images/osterreich.jpg  used on input line 860.
+(pdftex.def)             Requested size: 128.60452pt x 74.44366pt.
+ [60
+
+ <./Images/osterreich.jpg>]
+<Images/WORK-IN-PROGRESS.jpg, id=757, 501.875pt x 436.63126pt>
+File: Images/WORK-IN-PROGRESS.jpg Graphic file (type jpg)
+<use Images/WORK-IN-PROGRESS.jpg>
+Package pdftex.def Info: Images/WORK-IN-PROGRESS.jpg  used on input line 869.
+(pdftex.def)             Requested size: 128.60452pt x 111.88248pt.
+ [61
+
+ <./Images/WORK-IN-PROGRESS.jpg>]
+File: Images/suttonbarto.png Graphic file (type png)
+<use Images/suttonbarto.png>
+Package pdftex.def Info: Images/suttonbarto.png  used on input line 890.
+(pdftex.def)             Requested size: 128.60452pt x 88.66109pt.
+
+Overfull \vbox (3.03722pt too high) detected at line 890
+ []
+
+[62
+
+] [63
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\translate ' on input line 897.
+
+\tf@nav=\write6
+\openout6 = `template.nav'.
+
+\tf@toc=\write7
+\openout7 = `template.toc'.
+
+\tf@snm=\write8
+\openout8 = `template.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1056.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1056.
+(./template.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1056.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1056.
+
+Package rerunfilecheck Info: File `template.out' has not changed.
+(rerunfilecheck)             Checksum: CBAF5628304065BC927FEACECD3D2CCF;217.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 22999 strings out of 492982
+ 447448 string characters out of 6134895
+ 514742 words of memory out of 5000000
+ 25837 multiletter control sequences out of 15000+600000
+ 339342 words of font info for 100 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,16n,83p,775b,866s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_7gpamp.enc}{/usr/shar
+e/texlive/texmf-dist/fonts/enc/dvips/fira/fir_765q6w.enc}</usr/share/texlive/te
+xmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/fira/FiraSans-Italic.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/fira/FiraSans-Regular.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/mathabx-type1/matha10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/mathabx-type1/matha6.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/mathabx-type1/matha8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/mathabx-type1/mathb8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/mathabx-type1/mathx10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on template.pdf (63 pages, 3272662 bytes).
+PDF statistics:
+ 857 PDF objects out of 1000 (max. 8388607)
+ 438 compressed objects within 5 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 260 words of extra memory for PDF output out of 10000 (max. 10000000)
+

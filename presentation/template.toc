@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Introduction}{4}{0}{1}
+\beamer@sectionintoc {2}{Multiarmed Bandit Problem}{21}{0}{2}
+\beamer@sectionintoc {3}{Finite Markov Decision Processes}{38}{0}{3}
+\beamer@sectionintoc {4}{Projects}{54}{0}{4}
