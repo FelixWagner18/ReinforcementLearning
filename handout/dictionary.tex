@@ -1,0 +1,169 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Dictionary
+% LaTeX Template
+% Version 1.1 (6/8/17)
+%
+% This template was downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Vel (vel@latextemplates.com) inspired by a template by Marc Lavaud
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt,a4paper,twoside]{article} % 10pt font size, A4 paper and two-sided margins
+
+\usepackage{amsmath}
+\usepackage{mathabx}
+%\savesymbol{iint}
+
+\usepackage[top=3.5cm,bottom=3.5cm,left=2.5cm,right=3.5cm,columnsep=30pt]{geometry} % Document margins and spacings
+
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+
+\usepackage{palatino} % Use the Palatino font
+
+\usepackage{microtype} % Improves spacing
+
+\usepackage{multicol} % Required for splitting text into multiple columns
+
+\usepackage[bf,sf,center]{titlesec} % Required for modifying section titles - bold, sans-serif, centered
+
+\usepackage{fancyhdr} % Required for modifying headers and footers
+\fancyhead[L]{\textsf{\rightmark}} % Top left header
+\fancyhead[R]{\textsf{\leftmark}} % Top right header
+\renewcommand{\headrulewidth}{1.4pt} % Rule under the header
+\fancyfoot[C]{\textbf{\textsf{\thepage}}} % Bottom center footer
+\renewcommand{\footrulewidth}{1.4pt} % Rule under the footer
+\pagestyle{fancy} % Use the custom headers and footers throughout the document
+
+\newcommand{\entry}[2]{\textbf{#1}\markboth{#1}{#1}\ $\bullet$\ {#2}} % Defines the command to print each word on the page, \markboth{}{} prints the first word on the page in the top left header and the last word in the top right 
+%\ {(#2)}\ \textit{#3}
+
+%\restoresymbol{TXF}{iint}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	SECTION A
+%----------------------------------------------------------------------------------------
+
+\section*{Vocabulary to "Reinforcement Learning: Multiarmed Bandit Problem, Finite MDPs", online: github.com/fewagner/ReinforcementLearning}
+
+\begin{multicols}{2}
+
+\entry{$\epsilon$-greedy Algorithm}{Method to balance exploration and exploitation. In every step, with probability $\epsilon$ a random non-greedy action is taken. Else the greedy action is taken. Only when the greedy action is taken, the value of the action state pair is updated according to some update rule.}
+
+\entry{Action}{An action that the agent can take.}
+
+\entry{Action Space $\mathcal{A}$}{The set of all actions that the agent can take. Sometimes $\mathcal{A}_s$ referes to all actions the agent can take when in a certain state.}
+
+\entry{Action Value Funtion $q_{\pi}$}{Assigns to every action state pair the expected return, when following policy $\pi$ thereafter. If $\pi$ is an optimal policy $\pi_{\asterisk}$, it is called the Optimal Action Value Function $q_{\asterisk}$.}
+
+\entry{Agent}{The individual in the reinforcement learning algorithm, that makes decisions based on its environment. Example: In a Tic-Tac-Toe game, the agent is the player who decides where to set it's stones, based on the position of all stones on the table.}
+
+\entry{Bandit Problem}{A slot machine with one or multiple levers. Each lever gives another probabilistic reward. In the bandit problem, the agent tries to learn which lever has the highest expected reward. The agent is always in the same state, so it only learns action values corresponding to the different levers.}
+
+\entry{Bellman Equation}{Recursive Relation of the value function: \begin{equation*}v_{\pi}(s) = \sum_a \pi(a|s) \sum_{s',r} p(s',r|s,a) \big[ r + \gamma v_{\pi}(s')  \big] \label{bell} \end{equation*} The value function is the unique solution of the Bellman Equation. It can be calculated by solving the system of linear equations.}
+
+\entry{Bellman Optimality Equation}{Bellman Equation of the optimal value function or optimal state value function: \begin{equation*} v_{\asterisk} (s)  = \max\limits_{a} \sum_{s',r} p(s',r | s,a) \big[ r + \gamma v_{\asterisk} (s') \big] \end{equation*} \begin{equation*} q_{\asterisk} (s,a) = \sum_{s',r} p(s',r | s,a) \big[ r + \gamma  \max\limits_{a'} q_{\asterisk} (s', a') \big]  \end{equation*}}
+
+\entry{Discounting Factor $\gamma$}{For continuing problems the Return is as a simple sum of expected future rewards ill defined, as the sum would diverge. So $\gamma \in [0,1]$ is indroduced to define the discounted Return: \begin{equation*}G_t = \sum_{k=0}^{\infty} \gamma^k R_{t+k+1} \hspace{0.5cm}\end{equation*}}
+
+\entry{Episode}{An episodic task is one that ends after finitely many steps. e.g. A chess play ends when one of the opponents wins. One game is then called an episode.}
+
+\entry{Environment}{Everything that is not part of the agent. When the agent sets an action, the environment answers with a reward and a new state. When designing ML problems, one has to decide where the agent ends and the environment starts. Rule of thumb: "Everything that cannot be changed arbitrarily by the agent is part of the environment."}
+
+\entry{Exploitation}{When the agent takes the greedy action. He might miss better options when only exploiting.}
+
+\entry{Exploration}{When the agent takes non-greedy actions to get a better picture of its environment. Typically, after explorative actions the action state value is not updated.}
+
+\entry{Gradient Bandit Algorithm}{Uses preferences instead of action values. Policy: \begin{equation*}
+Pr\{ A_t = a \} = \frac{ e^{H_t (a)} }{  \sum_{b=1}^{k} e^{H_t (b)} } = \pi_t (a)
+\end{equation*}
+Preferences Update Rule:
+\begin{equation*}
+H_{t+1} (A_t) = H_t(A_t) + \alpha (R_t - \overline{R_t})(1 - \pi_t (A_t))
+\end{equation*} 
+\begin{equation*}
+H_{t+1} (A_t) = H_t(a) + \alpha (R_t - \overline{R_t})\pi_t (a)
+\end{equation*}
+ for all $ a \ne A_t$. 
+}
+
+\entry{Greedy Action}{The action with the highest estimated Return.}
+
+\entry{Learning Rate $\alpha$}{The stepsize parameter in Q Learning.}
+
+\entry{Markov Chain}{A MDP with only one possible action in every state, that is choosen automatically.}
+
+\entry{Markov Property}{A state satisfies the markov property when it contains all for the future relevant information about the past. e.g. All positions of all "X" and "O" in a tic tac toe game are together a state that satisfies the markov property. For the Travelling Salesman Problem, the current position alone does not satisfy the markov proterty. It needs also the information where the agent has already been.}
+
+\entry{Model of the Environment}{A Priori Knowledge about the Environment can be introduces to the RL Problem by creating a model of the environment for the agent. e.g. When the agent tries to escape a labyrinth, the model could tell him that the walls woun't change position over time.}
+
+\entry{MPD}{A Markov Decision Process is a State-,  an Action-, and a Reward Space, together with a function 
+\begin{equation*} 
+p: \mathcal{S} \times \mathcal{R} \times \mathcal{S} \times \mathcal{A} \rightarrow [0,1]
+\end{equation*} 
+defined by
+\begin{align*} 
+&p(s',r ,s,a ) = \dots \\&Pr\{S_t = s', R_t = r| S_{t-1} = s, A_{t-1} = a\}
+\end{align*}
+and a function
+\begin{equation*} 
+r: \begin{cases} \mathcal{S} \times \mathcal{A} \times \mathcal{S} \rightarrow \mathcal{R} \\ (s, a, s') \mapsto r(s, a, s') \end{cases}
+\end{equation*} 
+that accounts for the expected rewards. The states all satisfy the Markov Property then.}
+
+\entry{Optimal Policy $\pi_{\asterisk}$}{A policy $\pi$ is better than $\pi'$ if $v_{\pi} (s) \ge v_{\pi'} (s)$ for all $s$. An optimal policy $\pi_{\asterisk}$ is better than or equal to all others. There is always at least one such. }
+
+\entry{Optimistic Initial Values}{$\epsilon$-greedy method with unrealistically high initial values. It forces the agent to explore in the beginning.}
+
+\entry{Policy $\pi$}{Mapping from states to probabilities of selecting each possible action: $\pi(a|s) = Pr(A_t = a | S_t = s)$}
+
+\entry{Q Learning}{All action state values are contained in the so called Q table. Then a epsilon greedy method is applied with linearly decreasing epsilon over the episodes. An updated rule, modelled after the Bellman Equation, is applied:
+\begin{align*}
+&Q(s_t,a_t) \leftarrow (1 - \alpha) Q(s_t,a_t) + \dots \\ 
+&\alpha[R(s_t,a_t) + \gamma \max\limits_a Q(s_{t+1},a)]
+\end{align*}}
+
+\entry{Reinforcement Learning}{The description of a ML problem by modelling it with an agent in an certain state. The agent takes actions in discrete time steps, getting answers from an environment in form of rewards and new states.}
+
+\entry{Return G}{An estimation of the future rewards. In the simplest form: $G_t = R_{t+1} + R_{t+2} + \dots + R_T$. This simple form is only applicable to episodic tasks.}
+
+\entry{Reward}{A scalar value that the agent gets from its environment as answer to an action.}
+
+\entry{Reward Hypothesis}{The hypothesis, that all that an individuum wants to achieve can be described with a scalar value, the cummulative reward. In human decision making, problems are often more complex.}
+
+\entry{State}{All information that the agent has about his current position in the task. e.g. In a game of chess, the position of all figures on the board is the state.}
+
+\entry{Supervised Learning}{A task in which a ML model has to learn from labeled data. e.g. handwritten character recognition}
+
+\entry{Travelling Salesman Problem}{The Agent has to visit certain places while driving as less distance as possible.}
+
+\entry{UCB}{Method that selects between non-greedy actions according to their potential to be greedy. Action Selection Rule:
+\begin{equation*}
+A_t = arg \max\limits_{a}  \big[ Q_t (a) + c \sqrt{\frac{ln (t)}{N_t (a)}} \big] 
+\end{equation*}
+$N_t(a)$ ... number of times a was selected prior to time step $t$, 	$c > 0$ ... controls the degree of exploration}
+
+\entry{Unsupervised Learning}{A task in which a ML model has to find structure in unlabeled data.}
+
+\entry{Update Rule}{A rule according to which the values of action state pairs are updated after usage. Usually its structure looks like: $NewEstimate \leftarrow OldEstimate + Stepsize \big[ Target - OldEstimate \big] $}
+
+\entry{Value Function $v_{\pi}$}{Assigns to every state the expected return, when following policy $\pi$. If $\pi$ is an optimal policy $\pi_{\asterisk}$, it is called the Optimal Value Function $v_{\asterisk}$.}
+
+\end{multicols}
+
+%------------------------------------------------
+\end{document}
